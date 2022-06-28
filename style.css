@@ -1,0 +1,28 @@
+body{
+    background-color:rgb(167, 219, 200);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+    
+}
+
+.reset i{
+    color:chocolate;
+}
+.recorder{
+    font-size: 100px;
+    color: rgb(2, 2, 12);
+    background-color: white;
+    font-family: 'Stick No Bills', sans-serif;
+    letter-spacing: 25px;
+    
+}
+.table{
+    width: 500px;
+    margin: auto;
+    margin-top: 10px;
+    font-size: 30px;
+}
+header h1{
+    font-size: 80px;
+    letter-spacing: 10px;
+}
